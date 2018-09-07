@@ -1,0 +1,86 @@
+INFO - 26 Aug 2013 11:02:27,499 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 11:02:27,513 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826110227
+INFO - 26 Aug 2013 11:02:28,668 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 11:02:28,669 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826110228
+INFO - 26 Aug 2013 11:02:29,357 uploadOneCustomer (UploadCustomer.java:121) said...------------------------------------------------------------
+INFO - 26 Aug 2013 11:02:29,358 uploadOneCustomer (UploadCustomer.java:175) said...otherWeights: 2.4
+INFO - 26 Aug 2013 11:02:29,361 uploadOneCustomer (UploadCustomer.java:197) said...Record read: CONF=5448860267|SBUS=|SFIRST=testmode-testing|SLAST=Porter|SADD1=403 Alta Vista Ave.|SADD2=|SCITY=Fort Smith|SST=AR|SZIP=72956|SCNTRY=US|BBUS=|BFIRST=testmode-testing|BLAST=Porter|BADD1=403 Alta Vista Ave.|BADD2=|BCITY=Fort Smith|BST=AR|BZIP=72956|BCNTRY=US|EMAIL=travis@justarrive.com|DPHONE=(479) 806 - 8430 Ext. |EPHONE=(479) 806 - 8430|SHPMTH=F2S|SHPDES=FedEx 2 Day with Signature|SCOST=16.0|WTOTAL=327.0|RCVON=20130809144940|PRODUCTS=code=CMB1&description=Family Fun Pack&description2=(2 adult, 2 child, 2 ride wristbands)&price=75.00&value=92.00&linkData=&status=1&img1=&img2=&qty=1&total=75.00
+code=SEAS&description=Season Pass&description2=(must have names for each pass)&price=25.00&value=30.00&linkData=&status=1&img1=&img2=&qty=2&total=50.00
+code=ADULT1&description=Adult (Monday - Thursday)&description2=&price=12.00&value=20.00&linkData=&status=1&img1=&img2=&qty=3&total=36.00
+code=ADULT2&description=Adult (Friday - Sunday)&description2=&price=15.00&value=15.00&linkData=&status=1&img1=&img2=&qty=4&total=60.00
+code=CHILD1&description=Child/Senior (Monday - Thursday)&description2=&price=8.00&value=8.00&linkData=&status=1&img1=&img2=&qty=5&total=40.00
+code=CHILD2&description=Child/Senior (Friday - Sunday)&description2=&price=10.00&value=10.00&linkData=&status=1&img1=&img2=&qty=6&total=60.00|SUBTOTAL=311.0|
+INFO - 26 Aug 2013 11:03:09,480 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 11:03:09,499 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826110309
+INFO - 26 Aug 2013 11:03:10,518 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 11:03:10,519 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826110310
+INFO - 26 Aug 2013 11:03:11,216 uploadOneCustomer (UploadCustomer.java:121) said...------------------------------------------------------------
+INFO - 26 Aug 2013 11:03:11,217 uploadOneCustomer (UploadCustomer.java:175) said...otherWeights: 2.4
+INFO - 26 Aug 2013 11:03:11,220 uploadOneCustomer (UploadCustomer.java:197) said...Record read: CONF=5448860267|SBUS=|SFIRST=testmode-testing|SLAST=Porter|SADD1=403 Alta Vista Ave.|SADD2=|SCITY=Fort Smith|SST=AR|SZIP=72956|SCNTRY=US|BBUS=|BFIRST=testmode-testing|BLAST=Porter|BADD1=403 Alta Vista Ave.|BADD2=|BCITY=Fort Smith|BST=AR|BZIP=72956|BCNTRY=US|EMAIL=travis@justarrive.com|DPHONE=(479) 806 - 8430 Ext. |EPHONE=(479) 806 - 8430|SHPMTH=F2S|SHPDES=FedEx 2 Day with Signature|SCOST=16.0|WTOTAL=327.0|RCVON=20130809144940|PRODUCTS=code=CMB1&description=Family Fun Pack&description2=(2 adult, 2 child, 2 ride wristbands)&price=75.00&value=92.00&linkData=&status=1&img1=&img2=&qty=1&total=75.00
+code=SEAS&description=Season Pass&description2=(must have names for each pass)&price=25.00&value=30.00&linkData=&status=1&img1=&img2=&qty=2&total=50.00
+code=ADULT1&description=Adult (Monday - Thursday)&description2=&price=12.00&value=20.00&linkData=&status=1&img1=&img2=&qty=3&total=36.00
+code=ADULT2&description=Adult (Friday - Sunday)&description2=&price=15.00&value=15.00&linkData=&status=1&img1=&img2=&qty=4&total=60.00
+code=CHILD1&description=Child/Senior (Monday - Thursday)&description2=&price=8.00&value=8.00&linkData=&status=1&img1=&img2=&qty=5&total=40.00
+code=CHILD2&description=Child/Senior (Friday - Sunday)&description2=&price=10.00&value=10.00&linkData=&status=1&img1=&img2=&qty=6&total=60.00|SUBTOTAL=311.0|
+INFO - 26 Aug 2013 11:04:31,388 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 11:04:31,402 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826110431
+INFO - 26 Aug 2013 11:04:32,475 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 11:04:32,476 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826110432
+INFO - 26 Aug 2013 11:04:33,225 uploadOneCustomer (UploadCustomer.java:121) said...------------------------------------------------------------
+INFO - 26 Aug 2013 11:04:33,226 uploadOneCustomer (UploadCustomer.java:175) said...otherWeights: 2.4
+INFO - 26 Aug 2013 11:04:33,230 uploadOneCustomer (UploadCustomer.java:197) said...Record read: CONF=5448860267|SBUS=|SFIRST=testmode-testing|SLAST=Porter|SADD1=403 Alta Vista Ave.|SADD2=|SCITY=Fort Smith|SST=AR|SZIP=72956|SCNTRY=US|BBUS=|BFIRST=testmode-testing|BLAST=Porter|BADD1=403 Alta Vista Ave.|BADD2=|BCITY=Fort Smith|BST=AR|BZIP=72956|BCNTRY=US|EMAIL=travis@justarrive.com|DPHONE=(479) 806 - 8430 Ext. |EPHONE=(479) 806 - 8430|SHPMTH=F2S|SHPDES=FedEx 2 Day with Signature|SCOST=16.0|WTOTAL=327.0|RCVON=20130809144940|PRODUCTS=code=CMB1&description=Family Fun Pack&description2=(2 adult, 2 child, 2 ride wristbands)&price=75.00&value=92.00&linkData=&status=1&img1=&img2=&qty=1&total=75.00
+code=SEAS&description=Season Pass&description2=(must have names for each pass)&price=25.00&value=30.00&linkData=&status=1&img1=&img2=&qty=2&total=50.00
+code=ADULT1&description=Adult (Monday - Thursday)&description2=&price=12.00&value=20.00&linkData=&status=1&img1=&img2=&qty=3&total=36.00
+code=ADULT2&description=Adult (Friday - Sunday)&description2=&price=15.00&value=15.00&linkData=&status=1&img1=&img2=&qty=4&total=60.00
+code=CHILD1&description=Child/Senior (Monday - Thursday)&description2=&price=8.00&value=8.00&linkData=&status=1&img1=&img2=&qty=5&total=40.00
+code=CHILD2&description=Child/Senior (Friday - Sunday)&description2=&price=10.00&value=10.00&linkData=&status=1&img1=&img2=&qty=6&total=60.00|SUBTOTAL=311.0|
+ERROR - 26 Aug 2013 11:04:56,700 uploadOneCustomer (UploadCustomer.java:405) said...ERROR WHILE SELECTING FROM TRANSACTIONS: java.lang.NullPointerException
+INFO - 26 Aug 2013 11:05:30,429 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 11:05:30,443 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826110530
+INFO - 26 Aug 2013 11:05:31,363 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 11:05:31,364 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826110531
+INFO - 26 Aug 2013 11:05:32,058 uploadOneCustomer (UploadCustomer.java:121) said...------------------------------------------------------------
+INFO - 26 Aug 2013 11:05:32,060 uploadOneCustomer (UploadCustomer.java:175) said...otherWeights: 2.4
+INFO - 26 Aug 2013 11:05:32,063 uploadOneCustomer (UploadCustomer.java:197) said...Record read: CONF=5448860267|SBUS=|SFIRST=testmode-testing|SLAST=Porter|SADD1=403 Alta Vista Ave.|SADD2=|SCITY=Fort Smith|SST=AR|SZIP=72956|SCNTRY=US|BBUS=|BFIRST=testmode-testing|BLAST=Porter|BADD1=403 Alta Vista Ave.|BADD2=|BCITY=Fort Smith|BST=AR|BZIP=72956|BCNTRY=US|EMAIL=travis@justarrive.com|DPHONE=(479) 806 - 8430 Ext. |EPHONE=(479) 806 - 8430|SHPMTH=F2S|SHPDES=FedEx 2 Day with Signature|SCOST=16.0|WTOTAL=327.0|RCVON=20130809144940|PRODUCTS=code=CMB1&description=Family Fun Pack&description2=(2 adult, 2 child, 2 ride wristbands)&price=75.00&value=92.00&linkData=&status=1&img1=&img2=&qty=1&total=75.00
+code=SEAS&description=Season Pass&description2=(must have names for each pass)&price=25.00&value=30.00&linkData=&status=1&img1=&img2=&qty=2&total=50.00
+code=ADULT1&description=Adult (Monday - Thursday)&description2=&price=12.00&value=20.00&linkData=&status=1&img1=&img2=&qty=3&total=36.00
+code=ADULT2&description=Adult (Friday - Sunday)&description2=&price=15.00&value=15.00&linkData=&status=1&img1=&img2=&qty=4&total=60.00
+code=CHILD1&description=Child/Senior (Monday - Thursday)&description2=&price=8.00&value=8.00&linkData=&status=1&img1=&img2=&qty=5&total=40.00
+code=CHILD2&description=Child/Senior (Friday - Sunday)&description2=&price=10.00&value=10.00&linkData=&status=1&img1=&img2=&qty=6&total=60.00|SUBTOTAL=311.0|
+ERROR - 26 Aug 2013 11:05:40,622 uploadOneCustomer (UploadCustomer.java:405) said...ERROR WHILE SELECTING FROM TRANSACTIONS: java.lang.NullPointerException
+INFO - 26 Aug 2013 11:06:01,889 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 11:06:01,915 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826110601
+INFO - 26 Aug 2013 11:06:02,847 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 11:06:02,847 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826110602
+INFO - 26 Aug 2013 11:06:03,579 uploadOneCustomer (UploadCustomer.java:121) said...------------------------------------------------------------
+INFO - 26 Aug 2013 11:06:03,581 uploadOneCustomer (UploadCustomer.java:175) said...otherWeights: 2.4
+INFO - 26 Aug 2013 11:06:03,584 uploadOneCustomer (UploadCustomer.java:197) said...Record read: CONF=5448860267|SBUS=|SFIRST=testmode-testing|SLAST=Porter|SADD1=403 Alta Vista Ave.|SADD2=|SCITY=Fort Smith|SST=AR|SZIP=72956|SCNTRY=US|BBUS=|BFIRST=testmode-testing|BLAST=Porter|BADD1=403 Alta Vista Ave.|BADD2=|BCITY=Fort Smith|BST=AR|BZIP=72956|BCNTRY=US|EMAIL=travis@justarrive.com|DPHONE=(479) 806 - 8430 Ext. |EPHONE=(479) 806 - 8430|SHPMTH=F2S|SHPDES=FedEx 2 Day with Signature|SCOST=16.0|WTOTAL=327.0|RCVON=20130809144940|PRODUCTS=code=CMB1&description=Family Fun Pack&description2=(2 adult, 2 child, 2 ride wristbands)&price=75.00&value=92.00&linkData=&status=1&img1=&img2=&qty=1&total=75.00
+code=SEAS&description=Season Pass&description2=(must have names for each pass)&price=25.00&value=30.00&linkData=&status=1&img1=&img2=&qty=2&total=50.00
+code=ADULT1&description=Adult (Monday - Thursday)&description2=&price=12.00&value=20.00&linkData=&status=1&img1=&img2=&qty=3&total=36.00
+code=ADULT2&description=Adult (Friday - Sunday)&description2=&price=15.00&value=15.00&linkData=&status=1&img1=&img2=&qty=4&total=60.00
+code=CHILD1&description=Child/Senior (Monday - Thursday)&description2=&price=8.00&value=8.00&linkData=&status=1&img1=&img2=&qty=5&total=40.00
+code=CHILD2&description=Child/Senior (Friday - Sunday)&description2=&price=10.00&value=10.00&linkData=&status=1&img1=&img2=&qty=6&total=60.00|SUBTOTAL=311.0|
+INFO - 26 Aug 2013 12:07:21,206 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 12:07:21,241 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826120721
+INFO - 26 Aug 2013 12:07:22,244 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 12:07:22,244 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826120722
+INFO - 26 Aug 2013 12:07:22,928 uploadOneCustomer (UploadCustomer.java:121) said...------------------------------------------------------------
+INFO - 26 Aug 2013 12:07:22,929 uploadOneCustomer (UploadCustomer.java:175) said...otherWeights: 2.4
+INFO - 26 Aug 2013 12:07:22,932 uploadOneCustomer (UploadCustomer.java:197) said...Record read: CONF=5448860267|SBUS=|SFIRST=testmode-testing|SLAST=Porter|SADD1=403 Alta Vista Ave.|SADD2=|SCITY=Fort Smith|SST=AR|SZIP=72956|SCNTRY=US|BBUS=|BFIRST=testmode-testing|BLAST=Porter|BADD1=403 Alta Vista Ave.|BADD2=|BCITY=Fort Smith|BST=AR|BZIP=72956|BCNTRY=US|EMAIL=travis@justarrive.com|DPHONE=(479) 806 - 8430 Ext. |EPHONE=(479) 806 - 8430|SHPMTH=F2S|SHPDES=FedEx 2 Day with Signature|SCOST=16.0|WTOTAL=327.0|RCVON=20130809144940|PRODUCTS=code=CMB1&description=Family Fun Pack&description2=(2 adult, 2 child, 2 ride wristbands)&price=75.00&value=92.00&linkData=&status=1&img1=&img2=&qty=1&total=75.00
+code=SEAS&description=Season Pass&description2=(must have names for each pass)&price=25.00&value=30.00&linkData=&status=1&img1=&img2=&qty=2&total=50.00
+code=ADULT1&description=Adult (Monday - Thursday)&description2=&price=12.00&value=20.00&linkData=&status=1&img1=&img2=&qty=3&total=36.00
+code=ADULT2&description=Adult (Friday - Sunday)&description2=&price=15.00&value=15.00&linkData=&status=1&img1=&img2=&qty=4&total=60.00
+code=CHILD1&description=Child/Senior (Monday - Thursday)&description2=&price=8.00&value=8.00&linkData=&status=1&img1=&img2=&qty=5&total=40.00
+code=CHILD2&description=Child/Senior (Friday - Sunday)&description2=&price=10.00&value=10.00&linkData=&status=1&img1=&img2=&qty=6&total=60.00|SUBTOTAL=311.0|
+INFO - 26 Aug 2013 12:08:30,308 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 12:08:30,323 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826120830
+INFO - 26 Aug 2013 12:08:31,219 uploadOneCustomer (UploadCustomer.java:79) said...Starting process.
+INFO - 26 Aug 2013 12:08:31,220 uploadOneCustomer (UploadCustomer.java:89) said...Date three hours ago: 20130826120831
+INFO - 26 Aug 2013 12:08:31,936 uploadOneCustomer (UploadCustomer.java:121) said...------------------------------------------------------------
+INFO - 26 Aug 2013 12:08:31,937 uploadOneCustomer (UploadCustomer.java:175) said...otherWeights: 2.4
+INFO - 26 Aug 2013 12:08:31,940 uploadOneCustomer (UploadCustomer.java:197) said...Record read: CONF=5448860267|SBUS=|SFIRST=testmode-testing|SLAST=Porter|SADD1=403 Alta Vista Ave.|SADD2=|SCITY=Fort Smith|SST=AR|SZIP=72956|SCNTRY=US|BBUS=|BFIRST=testmode-testing|BLAST=Porter|BADD1=403 Alta Vista Ave.|BADD2=|BCITY=Fort Smith|BST=AR|BZIP=72956|BCNTRY=US|EMAIL=travis@justarrive.com|DPHONE=(479) 806 - 8430 Ext. |EPHONE=(479) 806 - 8430|SHPMTH=F2S|SHPDES=FedEx 2 Day with Signature|SCOST=16.0|WTOTAL=327.0|RCVON=20130809144940|PRODUCTS=code=CMB1&description=Family Fun Pack&description2=(2 adult, 2 child, 2 ride wristbands)&price=75.00&value=92.00&linkData=&status=1&img1=&img2=&qty=1&total=75.00
+code=SEAS&description=Season Pass&description2=(must have names for each pass)&price=25.00&value=30.00&linkData=&status=1&img1=&img2=&qty=2&total=50.00
+code=ADULT1&description=Adult (Monday - Thursday)&description2=&price=12.00&value=20.00&linkData=&status=1&img1=&img2=&qty=3&total=36.00
+code=ADULT2&description=Adult (Friday - Sunday)&description2=&price=15.00&value=15.00&linkData=&status=1&img1=&img2=&qty=4&total=60.00
+code=CHILD1&description=Child/Senior (Monday - Thursday)&description2=&price=8.00&value=8.00&linkData=&status=1&img1=&img2=&qty=5&total=40.00
+code=CHILD2&description=Child/Senior (Friday - Sunday)&description2=&price=10.00&value=10.00&linkData=&status=1&img1=&img2=&qty=6&total=60.00|SUBTOTAL=311.0|
