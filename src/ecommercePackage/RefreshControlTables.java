@@ -46,18 +46,18 @@ public class RefreshControlTables {
     
     String mysqlUrl = "jdbc:mysql://localhost:3306/ecommerce";
     String mysqlDriver = "com.mysql.jdbc.Driver";
-    String mysqlUserName = "ecommerce";
-    String mysqlPassword = "ecommerce_connect";
+    String mysqlUserName = "MySQL_username";
+    String mysqlPassword = "MySQL_password";
     Connection mysqlConn = null;
     Statement mysqlStmt = null;
     ResultSet mysqlRs = null;
 
 
         
-    String as400Url = "jdbc:as400://10.2.2.13/BATCHF"; // LIBRARY NAME
+    String as400Url = "jdbc:as400://AS400ipaddress/physicalorlogicalfile"; 
     String as400Driver = "com.ibm.as400.access.AS400JDBCDriver";
-    String as400UserName = "QPGMR";
-    String as400Password = "PGMR";
+    String as400UserName = "AS400_username";
+    String as400Password = "AS400_password";
     Connection as400Conn = null;
 
     public RefreshControlTables(){
