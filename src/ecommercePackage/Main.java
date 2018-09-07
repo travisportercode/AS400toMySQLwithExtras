@@ -9,7 +9,7 @@ RUNNING:
 
 TODO (2018-09-06): 
    * needs to be refactored to use objects 
-   * needs hamcrest library added to project
+   
    
  */
 
